@@ -1,0 +1,28 @@
+{
+	"name": "bananaspy",
+	"displayName": "bananalight",
+	"description": "Light minimalistic color theme for JS/React development",
+  "repository": "https://github.com/bananaspy/bananalight",
+	"version": "0.0.2",
+	"publisher": "bananaspy",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "bananalight",
+				"uiTheme": "vs",
+				"path": "./themes/bananalight-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "b231570b-bef5-430e-9271-aa3095afc648",
+		"publisherDisplayName": "Vitaliy Starov",
+		"publisherId": "99213197-d295-4d8c-9857-f6865756d8d7"
+	}
+}
