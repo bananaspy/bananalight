@@ -39,7 +39,8 @@
         "constant.other.object.key.js",
         "variable.other.property",
         "source.json.comments meta.structure punctuation",
-        "meta.brace.curly.litobj.js"
+        "meta.brace.curly.litobj.js",
+        "meta.object.flowtype variable"
       ],
       "settings": {
         "foreground": "#5f1111"
@@ -89,13 +90,11 @@
       "name": "Flow declarations",
       "scope": [
         "punctuation.flowtype",
-        "meta.object.flowtype variable",
         "meta.object.flowtype variable.other.property",
         "support.type.class.flowtype",
-        "keyword.other.typedef.flowtype",
         "keyword.object.flowtype",
-        "source meta.object.flowtype keyword",
-        "source meta.object.flowtype meta.brace"
+        "support.type.builtin.primitive.flowtype",
+        "support.type.primitive.flowtype"
       ],
       "settings": {
         "foreground": "#7d7d92"

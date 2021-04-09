@@ -3,7 +3,7 @@
 	"displayName": "bananalight",
 	"description": "Light minimalistic color theme for JS/React development",
   "repository": "https://github.com/bananaspy/bananalight",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"publisher": "bananaspy",
 	"engines": {
 		"vscode": "^1.55.0"
